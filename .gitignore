@@ -1,6 +1,9 @@
 **/*env*/
 
-
+**/*.joblib
+**/model/
+**/data/
+**/logs/
 
 
 
