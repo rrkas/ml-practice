@@ -1,0 +1,88 @@
+Supervised Learning
+============================================================
+[ ] Linear Regression
+[ ] Logistic Regression
+[ ] SVM
+[ ] Decision Trees / Random Forest
+[ ] k-NN
+[ ] Naïve Bayes
+---
+[ ] Feedforward Neural Networks (MLP)
+[ ] Convolutional Neural Networks (CNNs)
+[ ] Recurrent Neural Networks (RNNs)
+[ ] LSTMs / GRUs
+[ ] Transformers (for vision, text, etc.)
+
+
+
+Unsupervised Learning
+============================================================
+[ ] k-Means
+[ ] DBSCAN
+[ ] Hierarchical Clustering
+[ ] PCA, ICA
+[ ] GMM, KDE
+---
+[ ] Autoencoders
+[ ] Variational Autoencoders (VAE)
+[ ] Generative Adversarial Networks (GANs)
+[ ] Self-Organizing Maps (SOMs, sometimes hybrid)
+[ ] Deep Embedding Clustering
+
+
+
+Semi-Supervised Learning
+============================================================
+[ ] Label Propagation
+[ ] Self-Training
+---
+[ ] Pseudo-Labeling with CNNs / Transformers
+[ ] Consistency Regularization
+[ ] FixMatch
+
+
+Self-Supervised Learning
+============================================================
+[ ] Contrastive Learning (SimCLR, MoCo)
+[ ] Masked Modeling (BERT, MAE)
+[ ] Autoencoding pretraining
+
+
+Reinforcement Learning
+============================================================
+[ ] Q-Learning
+[ ] SARSA
+[ ] Policy Iteration / Value Iteration
+---
+[ ] Deep Q-Networks (DQN)
+[ ] Actor–Critic, A3C, PPO, DDPG
+[ ] AlphaGo-style systems (Deep + MCTS)
+
+
+Online / Incremental Learning
+============================================================
+[ ] Online Perceptron
+[ ] SGD updates
+---
+[ ] Continual Learning
+[ ] Elastic Weight Consolidation (EWC)
+
+
+Ensemble Learning
+============================================================
+[ ] Bagging
+[ ] Boosting
+[ ] Stacking
+---
+[ ] Model Ensembling
+[ ] Snapshot Ensembles
+
+
+Evolutionary / Bio-Inspired Learning
+============================================================
+[ ] Genetic Algorithms, PSO, ACO
+---
+[ ] Neuroevolution (e.g., evolving network architectures — NEAT, Genetic CNNs)
+
+
+

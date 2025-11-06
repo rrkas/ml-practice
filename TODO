@@ -1,0 +1,37 @@
+FRAMEWORKS AND TOOLKITS
+===============================
+[ ] PyTorch
+[ ] Tensorflow
+[ ] Scikit-Learn
+[ ] Keras
+[ ] spaCy
+[ ] NLTK
+[ ] HuggingFace
+[ ] Pandas
+[ ] OpenCV
+
+
+
+GEN AI
+===============================
+[ ] RAG
+[ ] Quantization
+[ ] LLM finetuning
+[ ] Parameter Efficient finetuning (PEFT)
+    [ ] LoRA
+    [ ] QLoRA
+[ ] LangChain
+[ ] LangGraph
+[ ] AutoGen
+[ ] CrewAI
+
+
+
+MLOPS
+===============================
+[ ] MLFlow
+[ ] DVC
+[ ] WanDB
+[ ] AirFlow
+
+
