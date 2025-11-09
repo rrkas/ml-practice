@@ -6,8 +6,8 @@ FRAMEWORKS AND TOOLKITS
 [ ] Keras
 [ ] spaCy
 [ ] NLTK
-[ ] HuggingFace
-[ ] Pandas
+[x] HuggingFace
+[x] Pandas
 [ ] OpenCV
 
 
