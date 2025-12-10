@@ -1,6 +1,6 @@
 Supervised Learning
 ============================================================
-[ ] Linear Regression
+[x] Linear Regression
 [ ] Logistic Regression
 [ ] SVM
 [ ] Decision Trees / Random Forest
