@@ -1,8 +1,13 @@
-from book_wise.ai_Russell_Norvig.base.state import State
+import sys, pathlib
+
+__root_path = pathlib.Path(__file__).parent.parent.parent.parent.parent
+sys.path.insert(0, str(__root_path))
+
+from src.book_wise.ai_Russell_Norvig.base_classes.state import State
 
 
 class Node:
-    def __init__(self, state: State, parent, action, path_cost):
+    def __init__(self, state: State, parent: "Node", action, path_cost):
         # the state in the state space to which the node corresponds
         self.state: State = state
 

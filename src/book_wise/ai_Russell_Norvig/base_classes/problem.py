@@ -1,4 +1,9 @@
-from book_wise.ai_Russell_Norvig.base.state import State
+import sys, pathlib
+
+__root_path = pathlib.Path(__file__).parent.parent.parent.parent.parent
+sys.path.insert(0, str(__root_path))
+
+from src.book_wise.ai_Russell_Norvig.base_classes.state import State
 
 
 class Problem:

@@ -1,11 +1,13 @@
 **/*env*/
 
 **/*.joblib
+**/*.pyc
+
 **/model/
 **/data/
 **/logs/
 **/.ruff_cache/
-
+**/__pycache__/
 
 
 
