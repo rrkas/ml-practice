@@ -4,7 +4,7 @@
 **/model/
 **/data/
 **/logs/
-
+**/.ruff_cache/
 
 
 

@@ -1,0 +1,40 @@
+Here are **10 beginner-level generative AI project ideas** with a one-line description and reference links so you can explore tutorials or code to get started: ([GitHub][1])
+
+1. **AI Chatbot (Text-based)** — Build a simple conversational bot that answers questions using a GenAI API (e.g., GPT models).
+   📌 Example starting point: GitHub *ai-chatbot* topic repos — [https://github.com/topics/ai-chatbot](https://github.com/topics/ai-chatbot) ([GitHub][2])
+
+2. **Recipe Generator App** — Input ingredients and automatically generate a recipe using a language model.
+   📌 Example code repos: *recipe-generator* on GitHub — [https://github.com/topics/recipe-generator](https://github.com/topics/recipe-generator) ([GitHub][3])
+
+3. **Text Story / Content Generator** — Create a tool that takes a prompt and outputs stories, poems, or articles via a GenAI model.
+   📌 Idea + tutorials: *Text generation with GPT models* beginner guides (e.g., Hugging Face) ([BrollyAI][4])
+
+4. **Image Generator (Text-to-Image)** — Let users input descriptions to generate images using models like Stable Diffusion.
+   📌 Learn how with KDnuggets tutorial on image generator setup tutorials — [https://www.kdnuggets.com/5-fun-generative-ai-projects-for-absolute-beginners](https://www.kdnuggets.com/5-fun-generative-ai-projects-for-absolute-beginners) ([KDnuggets][5])
+
+5. **AI Code Assistant** — Create a helper that suggests code or autocompletes snippets from natural language descriptions.
+   📌 Project idea reference: code generator assistants list — [https://www.guvi.in/blog/top-generative-ai-projects](https://www.guvi.in/blog/top-generative-ai-projects) ([Guvi][6])
+
+6. **Text-to-Speech Voice Generator** — Convert text input into spoken output using Generative AI audio APIs.
+   📌 See beginner lists including voice generation ideas — [https://www.guvi.in/blog/top-generative-ai-projects](https://www.guvi.in/blog/top-generative-ai-projects) ([Guvi][6])
+
+7. **AI Image Inpainting / Editing Tool** — Use GenAI to fill in missing parts of images or edit existing pictures.
+   📌 Example application idea from beginner project collections — [https://www.guvi.in/blog/top-generative-ai-projects](https://www.guvi.in/blog/top-generative-ai-projects) ([Guvi][6])
+
+8. **Neural Style Transfer Art Generator** — Apply artistic styles to photos using simple deep learning models.
+   📌 Listed idea in beginner-friendly project compilations — [https://www.guvi.in/blog/top-generative-ai-projects](https://www.guvi.in/blog/top-generative-ai-projects) ([Guvi][6])
+
+9. **AI Music Generator** — Build a project that creates short music clips from prompts using tools like Magenta or simple GenAI models.
+   📌 Project idea reference: beginner GenAI project lists — [https://www.guvi.in/blog/top-generative-ai-projects](https://www.guvi.in/blog/top-generative-ai-projects) ([Guvi][6])
+
+10. **Fine-Tuning Mini GenAI App** — Use Microsoft’s *Generative AI for Beginners* course repos to build and fine-tune simple GenAI applications step by step.
+    📌 Starter course & code: *generative-ai-for-beginners* by Microsoft — [https://github.com/microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ([GitHub][1])
+
+Would you like **links to beginner tutorials (YouTube or step-by-step guides)** for any of these projects?
+
+[1]: https://github.com/microsoft/generative-ai-for-beginners?utm_source=chatgpt.com "microsoft/generative-ai-for-beginners"
+[2]: https://github.com/topics/ai-chatbot?utm_source=chatgpt.com "ai-chatbot · GitHub Topics"
+[3]: https://github.com/topics/recipe-generator?utm_source=chatgpt.com "recipe-generator · GitHub Topics"
+[4]: https://brollyai.com/generative-ai-projects-for-beginners/?utm_source=chatgpt.com "Generative AI Projects for Beginners: Simple Guide & Ideas"
+[5]: https://www.kdnuggets.com/5-fun-generative-ai-projects-for-absolute-beginners?utm_source=chatgpt.com "5 Fun Generative AI Projects for Absolute Beginners"
+[6]: https://www.guvi.in/blog/top-generative-ai-projects/?utm_source=chatgpt.com "Top 9 Best Generative AI Projects for All Techies: With Code"
